@@ -18,7 +18,7 @@ An interactive Microsoft Excel data analysis project exploring customer bike pur
 
 
 
-👉 \[Open Dashboard in Excel Online](https://1drv.ms/x/c/860af09770e1b1d9/IQA8-85yRZy\_QY8xKnBm2zLIAQcOobVhMrKsqFkMN2E1bsY?e=pBWrUY)
+👉 \[Open Dashboard in Excel Online](https://1drv.ms/x/c/860af09770e1b1d9/IQA8-85yRZy_QY8xKnBm2zLIAQcOobVhMrKsqFkMN2E1bsY?e=avrSjN)
 
 
 
